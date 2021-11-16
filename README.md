@@ -1,4 +1,4 @@
-# Lounge All Bot
+Lounge All Bot
 _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kadar üyeden bahsedebilir. !**_
 
 ### 🏷 Bilgi
@@ -7,9 +7,9 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 - yakında javascript surumu gelcektir
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bodrumlubebek/loungetagger)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vusaldi/loungetagger)
 
 ### 🎯 Krediler ve Diğer
-- [Ben](https://github.com/bodrumlubebek) bu Proje için ;)
+- [Ben](https://github.com/Vusaldi) bu Proje için ;)
 
-**Beni Github'dan takip etmeyi unutmayın ✌️**
+Beni Github'dan takip etmeyi unutmayın ✌️
